@@ -19,6 +19,11 @@ else
 	then
 		echo "Invalid Date"
 	else
-		echo "Valid Date"
+		if [[ $month -eq 4 || $month -eq 5 ]]
+		then
+			echo "Valid Date"
+		else
+			echo "Invalid date"
+		fi
 	fi
 fi
