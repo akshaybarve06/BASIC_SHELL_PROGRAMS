@@ -1,0 +1,37 @@
+// For Master Branch
+
+git init
+
+git add .
+
+git commit -m "Comment About Codes"
+
+git remote add origin
+
+git push -u origin master
+
+
+//Create Branch
+
+git branch ProgrammingConcepts
+
+git branch
+
+git checkout ProgrammingConcepts
+
+git add .
+
+git commit -m "Comment About Codes"
+
+git push origin ProgrammingConcepts
+
+
+//For Master Merge
+
+git checkout master
+
+git merge ProgrammingConcepts
+
+git push origin master
+
+
