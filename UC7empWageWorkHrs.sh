@@ -42,4 +42,4 @@ done
 
 totalsalary=$(( $totalemphrs * $hourrate ))
 
-echo "Total Employee salary is.. $totalsalary"
+echo "Total Employee salary is... $totalsalary"
