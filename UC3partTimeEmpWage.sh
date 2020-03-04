@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-# @ Purpose : Check if Entered Year is Leap Year OR Not
+# @ Purpose : Employee Wage Use Case 3
 # @ Author : Akshay Dhananjay Barve
 # @ Version : 18.04.3 lts
 # @ Since : 29-02-2020 / Saturday
@@ -23,4 +23,4 @@ else
 fi
 
 salary=$(( $emphours * $hourrate ))
-echo "Salary is..$salary"
+echo "Salary is...$salary"
