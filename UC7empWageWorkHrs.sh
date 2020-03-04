@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-# @Purpose : Print Number In Words Using Case
+# @Purpose : Employee Use Case 7
 # @Author : Akshay Dhananjay Barve
 # @Version : 18.04.3 lts
 # @Since : 03-03-2020 / Tuesday
