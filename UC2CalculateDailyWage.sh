@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-# @ Purpose : Find Smallest & Largest Number from 5 Random 3 digit Number
+# @ Purpose : Employee Use Case 2
 # @ Author : Akshay Dhananjay Barve
 # @ Version : 18.04.3 lts
 # @ Since : 29-02-2020 / Saturday
