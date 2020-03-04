@@ -23,4 +23,4 @@ else
 fi
 
 salary=$(( $emphours * $hourrate ))
-echo "Salary is..$salary"
+echo "Salary is...$salary"
